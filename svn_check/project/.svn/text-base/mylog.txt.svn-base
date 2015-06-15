@@ -1,0 +1,38 @@
+John Smith
+john2015-06-09 08:51:392015-06-09 09:04:192015-06-09 09:04:522015-06-09 09:06:302015-06-09 09:07:092015-06-09 09:07:152015-06-09 09:08:372015-06-09 09:11:112015-06-09 09:14:272015-06-09 09:14:402015-06-09 09:15:322015-06-09 23:24:262015-06-09 23:55:312015-06-09 23:56:28user2015-06-09 23:59:30User issithappiri2015-06-09 23:59:56User is sithappiri2015-06-10 00:01:17User is sithappiri
+2015-06-10 00:04:50User is sithappiri
+2015-06-10 00:04:53User is sithappiri
+2015-06-10 00:09:59User is sithappiri
+2015-06-10 00:10:01User is sithappiri
+2015-06-10 00:10:212015-06-10 00:10:212015-06-10 00:13:072015-06-10 00:13:072015-06-10 00:13:452015-06-10 00:16:58User session timed out
+2015-06-10 00:17:15User session timed out
+2015-06-10 00:20:21User session timed out
+2015-06-10 00:20:21User unauthorized
+2015-06-10 00:23:10User session timed out
+2015-06-10 00:34:13User session timed out
+2015-06-10 00:42:15User session
+2015-06-10 00:59:39User session timed out
+2015-06-10 01:01:43User sithappiri is trying to login
+2015-06-10 01:02:43User session timed out
+2015-06-10 01:03:32User sithappiri is trying to login
+2015-06-10 01:44:58User session timed out
+2015-06-10 01:45:02User sithappiri is trying to login
+2015-06-10 01:45:03User sithappiri is authenticated
+2015-06-10 01:45:03User sithappiri is authorized to access
+2015-06-10 01:47:03User unauthorized 
+2015-06-10 01:47:07User sithappiri is trying to login
+2015-06-10 01:47:07User sithappiri is authenticated
+2015-06-10 01:47:07User sithappiri is authenticated and redirected to previous url
+2015-06-10 01:47:08User sithappiri is authorized to access
+2015-06-10 01:52:34User sithap is trying to login
+2015-06-10 01:52:35 Authentication failed for user sithapMessage: csp-1 : Unable to authenticate with the given username and password.
+2015-06-10 01:55:37User unauthorized 
+2015-06-10 01:56:40User sithappiri is trying to login
+2015-06-10 01:56:41User sithappiri is authenticated
+2015-06-10 01:56:41User sithappiri is redirected to previous url
+2015-06-10 01:56:41User sithappiri is authorized to access
+2015-06-10 01:59:37User unauthorized 
+2015-06-10 01:59:41User sithappiri is trying to login
+2015-06-10 01:59:41User sithappiri is authenticated
+2015-06-10 01:59:41User sithappiri is redirected back to previous url /dev/stage/sardoss/config/config_gen_order_form.php
+2015-06-10 01:59:42User sithappiri is authorized to access
